@@ -46,6 +46,6 @@ It's an excellent example of computer vision in action, demonstrating the potent
 st.header("Get in Touch")
 st.markdown("""
 Feel free to reach out via:
-- 📧 **Email:** [test@gmail.com](mailto:test@gmail.com)
+- 📧 **Email:** [mertoiverson039@gmail.com](mailto:mertoiverson039@gmail.com)
 - 🌐 **Facebook:** [Connect with me on Facebook](https://www.facebook.com/profile.php?id=61561851882675&mibextid=ZbWKwL)
 """)
