@@ -5,7 +5,7 @@ from PIL import Image
 col1, col2 = st.columns([1, 3])
 
 # Load the image
-image = Image.open("Streamlit_app/me.jpg")
+image = Image.open("me.jpg")
 
 # Display the image in the first column, adjusting the width
 with col1:
