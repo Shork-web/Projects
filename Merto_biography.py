@@ -5,7 +5,7 @@ from PIL import Image
 col1, col2 = st.columns([1, 3])
 
 # Load the image
-image = Image.open("C:/Users/Suisei/me.jpg")
+image = Image.open("Streamlit_app/me.jpg")
 
 # Display the image in the first column, adjusting the width
 with col1:
@@ -16,7 +16,7 @@ with col2:
     st.markdown("""
     ### About Me
     Hi, I'm **Iverson G. Merto**, a passionate 4th-year IT student. 
-    With three years of experience in IT, my journey began in the beautiful province of Southern Leyte, where I discovered my love for computers.
+    With three years of studies in IT, my journey began in the beautiful province of Southern Leyte, where I discovered my love for computers.
 
     When I'm not coding or exploring new tech trends, you can find me:
     - Diving into captivating **manhwa** stories.
